@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>087185DA-A11F-4325-8F10-859B7A0A67BE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>36299D0CD6E7EAEFDB447642A5BFA3D75FAB739E</key>
+		<string>https://github.com/ahmdtaha/opencv_csv.git</string>
+		<key>A3AF9268F1F854E096D44FF3C5785A7ACB4C41BC</key>
+		<string>https://bitbucket.org/ahmdalitaha/darwin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>opencv_csv/opencv_csv.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>36299D0CD6E7EAEFDB447642A5BFA3D75FAB739E</key>
+		<string>../../..</string>
+		<key>A3AF9268F1F854E096D44FF3C5785A7ACB4C41BC</key>
+		<string>../../../../../../bit_DARWIN</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ahmdtaha/opencv_csv.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>36299D0CD6E7EAEFDB447642A5BFA3D75FAB739E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A3AF9268F1F854E096D44FF3C5785A7ACB4C41BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bit_DARWIN</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>36299D0CD6E7EAEFDB447642A5BFA3D75FAB739E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>opencv_csv</string>
+		</dict>
+	</array>
+</dict>
+</plist>
